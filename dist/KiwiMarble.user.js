@@ -19,7 +19,7 @@
 // @connect      nominatim.openstreetmap.org
 // @connect      wplace.live
 // @connect      wplace.lol
-// @resource     CSS-BM-File https://raw.githubusercontent.com/MennilTossFlykune/Wplace-KiwiMarble/d0acd35e00705462e3bc8223927f52c85aaa6f7e/dist/KiwiMarble.user.css
+// @resource     CSS-BM-File https://raw.githubusercontent.com/MennilTossFlykune/Wplace-KiwiMarble/796f41c9b6b78fec7cd3c0b6cdacff968d0f66e8/dist/KiwiMarble.user.css
 // ==/UserScript==
 
 // Wplace  --> https://wplace.live
